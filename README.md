@@ -13,7 +13,8 @@
 
 *当然你打开QSndPlrc直接输也可以  
 > you can also directly open QSndPlrc and enter your music score there
-  
+*建议播放的时候后台随便再放点什么，不然会很卡（原理是刷新下缓存？）
+> It is recommended to play something in the background when runnig this program, otherwise it will be too laggy (the principle is to refresh the cache?)
 ## 文件格式（语法）
 ```
 120
